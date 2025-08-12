@@ -1,6 +1,6 @@
 # Hi there, I'm Tharini Radha Krishnan 👋
 
-🌟 **Aspiring Computer Science Engineer** | 💻 **Full-Stack & AI Enthusiast** | 🚀 **Problem Solver**
+🌟 **Aspiring Computer Science Engineer** | 💻 **Full-Stack & AI Enthusiast** | 🚀 **Problem Solver** | **Innovatively Curious 🤖 | Machine Learning & Data Science Learner 📊 **|
 
 ---
 
