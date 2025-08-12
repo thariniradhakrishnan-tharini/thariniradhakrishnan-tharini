@@ -35,20 +35,28 @@
 - Google Skill Boost — Generative AI, Cybersecurity, Gemini  
 - NPTEL — Machine Learning (Elite), Java, C Programming, OOSD with UML  
 - Cisco — Introduction to Cybersecurity  
-- Forage — Data Analytics (Accenture), Operations (Goldman Sachs)  
 - MongoDB Introduction  
 - HackerRank — Java, SQL (Basic)  
 - AWS ML Engineer *(In Progress)*
 
 ---
 
-## 🏆 Achievements & Competitions
+## 💼 Job Simulations
+- **Data Analytics** — Accenture (Forage)  
+- **Operations** — Goldman Sachs (Forage)  
+
+---
+
+## 🏆 Achievements, Competitions & Learnathons
 - 🥈 Semi-finalist — **TechGig Code Gladiators 2024**  
 - 🥇 Winner — **Cybersecurity Hackathon (Suprajaa Technologies)**  
 - Competitor — **Flipkart Grid 7.0**, **Kaggle March Mania**  
 - 78th rank — Java Quiz (PVPSIT)  
-- Completed **SAWIT.AI Learnathon** & **Gen AI Intensive Course (Kaggle)**  
-- Attended **Unstop Talent Park-2025 Bootcamp**
+- **Learnathons & Bootcamps Attended:**
+  - SAWIT.AI Learnathon (GUVI, NASSCOM, Kalido)  
+  - NM-AU-TNcpl Learnathon (GUVI, Naan Mudhalvan, Anna University)  
+  - 5-Day Gen AI Intensive Course (Kaggle)  
+  - Unstop Talent Park-2025 Bootcamp (7 days)
 
 ---
 
@@ -65,4 +73,4 @@
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
+⭐ *“First, solve the problem. Then, write the code.”*  
