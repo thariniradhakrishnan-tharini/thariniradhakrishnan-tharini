@@ -30,10 +30,18 @@
 - **Vehicle Service Booking** — MERN stack application with admin/user booking & payment modules
 
 ---
-##  My Projects
 
-###  Spacial Analysis of COVID-19 Data in India  
-A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hotspots, clusters, and spatial patterns in COVID-19 data across India through data cleaning, clustering (DBSCAN), interpolation mapping, and network visualizations.
+## 📂 My GitHub Repositories
+
+### 📺 TV Cable Operator Customer Management and Recharge Notification System
+A Flask web app to manage cable operator customers, track packages, and show reports.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thariniradhakrishnan-tharini&repo=Cable-Operator-Management&theme=radical)](https://github.com/thariniradhakrishnan-tharini/Cable-Operator-Management)
+
+---
+
+### 🌍 Spacial Analysis of COVID-19 Data in India  
+A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hotspots, clusters, and spatial patterns in COVID-19 data across India.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thariniradhakrishnan-tharini&repo=Spacial-Analysis-of-COVID-19-Data&theme=radical)](https://github.com/thariniradhakrishnan-tharini/Spacial-Analysis-of-COVID-19-Data)
 
