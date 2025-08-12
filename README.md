@@ -30,6 +30,14 @@
 - **Vehicle Service Booking** — MERN stack application with admin/user booking & payment modules
 
 ---
+##  My Projects
+
+###  Spacial Analysis of COVID-19 Data in India  
+A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hotspots, clusters, and spatial patterns in COVID-19 data across India through data cleaning, clustering (DBSCAN), interpolation mapping, and network visualizations.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thariniradhakrishnan-tharini&repo=Spacial-Analysis-of-COVID-19-Data&theme=radical)](https://github.com/thariniradhakrishnan-tharini/Spacial-Analysis-of-COVID-19-Data)
+
+---
 
 ## 📜 Certifications
 - Google Skill Boost — Generative AI, Cybersecurity, Gemini  
