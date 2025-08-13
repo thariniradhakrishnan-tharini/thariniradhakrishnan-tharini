@@ -33,6 +33,10 @@
 
 ## 📂 My GitHub Repositories
 
+## 👩‍💻 My AIML Projects
+- [Diabetes Prediction](https://github.com/thariniradhakrishnan-tharini/Diabetes-prediction)  
+  Flask-based AIML project using the Pima Indians Diabetes dataset to predict diabetes risk.
+
 ### 📺 TV Cable Operator Customer Management and Recharge Notification System
 A Flask web app to manage cable operator customers, track packages, and show reports.
 
