@@ -62,7 +62,7 @@ A spatial data science project using Python, GeoPandas, Scikit-learn, and Networ
 - NPTEL — Machine Learning (Elite), Java, C Programming, OOSD with UML  
 - Cisco — Introduction to Cybersecurity  
 - MongoDB Introduction  
-- HackerRank — Java, SQL (Basic)  
+- HackerRank — Java, Python, SQL (Basic)  
 - AWS ML Engineer *(In Progress)*
 
 ---
