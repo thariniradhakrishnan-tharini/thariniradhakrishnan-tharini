@@ -33,10 +33,12 @@
 
 ## 📂 My GitHub Repositories
 
-## 🩺 Diabetes Prediction
+### 🩺 Diabetes Prediction
 Flask-based AIML project using the Pima Indians Diabetes dataset to predict diabetes risk.
 
-[![Diabetes Prediction](https://img.shields.io/badge/Diabetes%20Prediction-Flask--based%20AIML%20Project-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Diabetes-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thariniradhakrishnan-tharini&repo=Diabetes-prediction&theme=radical)](https://github.com/thariniradhakrishnan-tharini/Diabetes-prediction)
+
+---
 
 ### 📺 TV Cable Operator Customer Management and Recharge Notification System
 A Flask web app to manage cable operator customers, track packages, and show reports.
@@ -48,7 +50,8 @@ A Flask web app to manage cable operator customers, track packages, and show rep
 ### 🌍 Spatial Analysis of COVID-19 Data in India  
 A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hotspots, clusters, and spatial patterns in COVID-19 data across India.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thariniradhakrishnan-tharini&repo=Spatial-Analysis-of-COVID-19-Data&theme=radical)](https://github.com/thariniradhakrishnan-tharini/Spacial-Analysis-of-COVID-19-Data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thariniradhakrishnan-tharini&repo=Spacial-Analysis-of-COVID-19-Data&theme=radical)](https://github.com/thariniradhakrishnan-tharini/Spacial-Analysis-of-COVID-19-Data)
+
 
 ---
 
