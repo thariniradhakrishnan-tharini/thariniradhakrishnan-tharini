@@ -51,7 +51,7 @@ A Flask web app to manage cable operator customers, track packages, and show rep
 
 ### 🌍 Spatial Analysis of COVID-19 Data in India  
 A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hotspots, clusters, and spatial patterns in COVID-19 data across India.  
-**Tech Stack:** Data Science, Data Visualization, Python, GeoPandas, Matplotlib, NetworkX  
+**Tech Stack:** Data Science, Data Visualization, Python, GeoPandas, Matplotlib, NetworkX, Spatial Interpolation,Spatial Overlay. 
 
 [![Spatial Analysis of COVID-19](https://img.shields.io/badge/Spatial%20Analysis%20of%20COVID--19-Data%20Science%20and%20Visualization-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Spacial-Analysis-of-COVID-19-Data)
 
