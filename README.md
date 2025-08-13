@@ -37,7 +37,7 @@
 Flask-based AIML project using the Pima Indians Diabetes dataset to predict diabetes risk.  
 **Tech Stack:** Flask, Machine Learning, Python, Scikit-learn, XGBoost  
 
-[![Diabetes Prediction](assets/diabetes-card.png)](https://github.com/thariniradhakrishnan-tharini/Diabetes-prediction)
+[![Diabetes Prediction](https://img.shields.io/badge/Diabetes%20Prediction-Flask--based%20AIML%20Project-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Diabetes-prediction)
 
 ---
 
@@ -45,15 +45,12 @@ Flask-based AIML project using the Pima Indians Diabetes dataset to predict diab
 A Flask web app to manage cable operator customers, track packages, and show reports.  
 **Tech Stack:** Flask, SQL, Python, HTML/CSS, Bootstrap  
 
-[![Cable Operator Management](assets/cable-operator-card.png)](https://github.com/thariniradhakrishnan-tharini/Cable-Operator-Management)
+[![Cable Operator Management](https://img.shields.io/badge/Cable%20Operator%20Management-Flask--based%20Customer%20Management%20System-red?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Cable-Operator-Management)
 
 ---
 
 ### 🌍 Spatial Analysis of COVID-19 Data in India  
-A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hotspots, clusters, and spatial patterns in COVID-19 data across India.  
-**Tech Stack:** Data Science, Data Visualization, Python, GeoPandas, Matplotlib, NetworkX  
-
-[![Spatial Analysis of COVID-19](assets/covid-card.png)](https://github.com/thariniradhakrishnan-tharini/Spacial-Analysis-of-COVID-19-Data)
+A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hots
 
 ---
 
