@@ -11,6 +11,14 @@
 - 🎯 Goal: Build impactful projects and contribute to open-source communities
 
 ---
+## 💼 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/tharini-radha-krishnan-243b362a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tharini%20Radha%20Krishnan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 ## 🧰 Skills & Tools
 **Languages:** Java, C, Python, SQL, JavaScript (Basics)  
