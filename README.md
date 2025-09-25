@@ -62,7 +62,7 @@ A complete inventory management solution to track products, manage stock levels,
 **Features:** Product CRUD operations, search, low-stock alerts, invoice generation, and reporting dashboard.  
 **Tech Stack:** Flask / MERN (based on implementation), Python/JavaScript, MongoDB/MySQL, HTML, CSS, Bootstrap  
 
-[![Stock Maintenance Project]([https://img.shields.io/badge/Stock%20Maintenance-Inventory%20Management%20System-orange?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Stock-Maintenance](https://github.com/thariniradhakrishnan-tharini/Stock_Maintainance_System-Javafx))
+[![Stock Maintenance Project](https://github.com/thariniradhakrishnan-tharini/Stock_Maintainance_System-Javafx)
 
 ---
 
