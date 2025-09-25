@@ -11,6 +11,7 @@
 - 🎯 Goal: Build impactful projects and contribute to open-source communities
 
 ---
+
 ## 💼 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/tharini-radha-krishnan-243b362a2" target="_blank">
@@ -26,20 +27,11 @@
 **ML & AI:** Machine Learning, Generative AI, AWS Bedrock, NLP  
 **Databases:** MongoDB, MySQL  
 **Cloud:** AWS, Google Cloud Platform  
-**Others:** Git, GitHub, VS Code, Postman
+**Others:** Git, GitHub, VS Code, Postman  
 
 ---
 
 ## 📌 Projects
-- **College Chatbot (AWS Bedrock)** — NLP chatbot with AWS Lambda, API Gateway, and Lex  
-- **AI Diabetes Prediction** — ML model for early disease detection  
-- **COVID-19 Spatial Analysis** — Hotspot mapping & hospital proximity analysis  
-- **Cable TV Operator Management** — Customer grouping & management system  
-- **Vehicle Service Booking** — MERN stack application with admin/user booking & payment modules
-
----
-
-## 📂 My GitHub Repositories
 
 ### 🩺 Diabetes Prediction
 Flask-based AIML project using the Pima Indians Diabetes dataset to predict diabetes risk.  
@@ -59,9 +51,18 @@ A Flask web app to manage cable operator customers, track packages, and show rep
 
 ### 🌍 Spatial Analysis of COVID-19 Data in India  
 A spatial data science project using Python, GeoPandas, Scikit-learn, and NetworkX to identify hotspots, clusters, and spatial patterns in COVID-19 data across India.  
-**Tech Stack:** Data Science, Data Visualization, Python, GeoPandas, Matplotlib, NetworkX, Spatial Interpolation,Spatial Overlay. 
+**Tech Stack:** Data Science, Data Visualization, Python, GeoPandas, Matplotlib, NetworkX, Spatial Interpolation, Spatial Overlay  
 
 [![Spatial Analysis of COVID-19](https://img.shields.io/badge/Spatial%20Analysis%20of%20COVID--19-Data%20Science%20and%20Visualization-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Spacial-Analysis-of-COVID-19-Data)
+
+---
+
+### 📦 Stock Maintenance and Inventory Management System  
+A complete inventory management solution to track products, manage stock levels, generate reports, and alert low-stock items.  
+**Features:** Product CRUD operations, search, low-stock alerts, invoice generation, and reporting dashboard.  
+**Tech Stack:** Flask / MERN (based on implementation), Python/JavaScript, MongoDB/MySQL, HTML, CSS, Bootstrap  
+
+[![Stock Maintenance Project](https://img.shields.io/badge/Stock%20Maintenance-Inventory%20Management%20System-orange?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Stock-Maintenance)
 
 ---
 
@@ -107,4 +108,4 @@ A spatial data science project using Python, GeoPandas, Scikit-learn, and Networ
 
 ---
 
-⭐ *“First, solve the problem. Then, write the code.”*  
+⭐ *“First, solve the problem. Then, write the code.”*
