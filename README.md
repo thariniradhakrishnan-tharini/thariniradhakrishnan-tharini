@@ -78,6 +78,24 @@ GitHub • VS Code
 
 ---
 
+### ☁️ Cloud-Based Serverless College Chatbot AI
+- **Description:** A serverless AI chatbot built on the cloud to assist students with academic and campus-related queries. It uses NLP and Generative AI models to deliver dynamic, human-like responses.  
+- **Features:** Natural language understanding, cloud-based data processing, serverless deployment.  
+- **Tech Stack:** Streamlit, AWS Lambda, AWS Bedrock, Python, NLP  
+
+[![College Chatbot AI](https://img.shields.io/badge/College%20Chatbot%20AI-Serverless%20Cloud--Based%20AI-blueviolet?style=for-the-badge&logo=aws-lambda&logoColor=white)](#)
+
+---
+
+### 🌐 Streamlit & Cloud-Based Internship Recommender
+- **Description:** A cloud-integrated ML app that recommends internships based on resume skills using natural language processing and similarity scoring.  
+- **Features:** Resume skill extraction, TF-IDF vectorization, cloud data storage, and recommendation display.  
+- **Tech Stack:** Streamlit, Firebase, Python, Scikit-learn, TF-IDF, Cosine Similarity, NLP  
+
+[![Internship Recommender](https://img.shields.io/badge/Internship%20Recommender-Streamlit%20%2B%20Cloud%20App-00bfa5?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+
+---
+
 ## 📜 Certifications
 - Google Skill Boost — Generative AI, Cybersecurity, Gemini  
 - NPTEL — Machine Learning (Elite), Java, C Programming, OOSD with UML  
