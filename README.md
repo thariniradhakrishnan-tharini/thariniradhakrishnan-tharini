@@ -5,9 +5,8 @@
 ---
 
 ## 💡 About Me
-- 🎓 **B.E. in Computer Science & Engineering** — Ramco Institute of Technology (CGPA: 8.57)  
-- 🌱 Continuously learning **MERN Stack**, **Machine Learning**, and **Generative AI**  
-- 🛠 Exploring **Cloud Technologies (AWS, Google Cloud)**, **Cybersecurity**, and **Data Analytics**  
+- 🎓 **B.E. in Computer Science & Engineering** — Ramco Institute of Technology (CGPA: 8.57)   
+- 🛠 Exploring **Machine Learning", and **Data Analytics**,**Cloud Technologies (AWS, Google Cloud)**  
 - 🎯 Passionate about building impactful projects and contributing to **open-source communities**
 
 ---
@@ -95,7 +94,7 @@ GitHub • VS Code
 [![Internship Recommender](https://img.shields.io/badge/Internship%20Recommender-Streamlit%20%2B%20Cloud%20App-00bfa5?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Intern-Pro-Match)
 
 ---
-### 🥇 Project Pulse 2025 — National Level Project Competition
+### 🥇 Project Pulse 2025 — National Level Project Competition Winner
   Organized by **Ramco Institute of Technology (Dept. of CSE & IT & T&P Cell)** in collaboration with **Maasr Consulting, UK** and **ISTE Student Chapter**.  
   🏛️ Recognized for innovative project implementation and technical excellence.  
   💰 **Awarded a cash prize of ₹3000.**
