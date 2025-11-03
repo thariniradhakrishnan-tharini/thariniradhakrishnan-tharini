@@ -24,10 +24,10 @@
 ## 🧰 Skills & Tools
 **Languages:** Java, C, Python, SQL, JavaScript (Basics)  
 **Web & Frameworks:** HTML5, CSS3, MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-**ML & AI:** Machine Learning, Generative AI, AWS Bedrock, NLP  
+**ML & AI:** Machine Learning, Generative AI, AWS Bedrock, NLP, Streamlit
 **Databases:** MongoDB, MySQL  
 **Cloud:** AWS, Google Cloud Platform  
-**Tools & Others:** Git, GitHub, VS Code, Postman  
+**Tools & Others:** GitHub, VS Code
 
 ---
 
