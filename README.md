@@ -79,27 +79,35 @@ GitHub • VS Code
 ---
 
 ### ☁️ Cloud-Based Serverless College Chatbot AI
-- **Description:** A serverless AI chatbot built on the cloud to assist students with academic and campus-related queries. It uses NLP and Generative AI models to deliver dynamic, human-like responses.  
-- **Features:** Natural language understanding, cloud-based data processing, serverless deployment.  
+- **Description:** A cloud-deployed **AI chatbot** built using AWS services to assist students with academic queries, event details, and campus information.  
+- **Features:** Natural language processing, serverless architecture, and integration with college data via AWS Bedrock.  
 - **Tech Stack:** Streamlit, AWS Lambda, AWS Bedrock, Python, NLP  
 
-[![College Chatbot AI](https://img.shields.io/badge/College%20Chatbot%20AI-Serverless%20Cloud--Based%20AI-blueviolet?style=for-the-badge&logo=aws-lambda&logoColor=white)](#)
+[![College Chatbot AI](https://img.shields.io/badge/College%20Chatbot%20AI-Serverless%20Cloud--Based%20AI-blueviolet?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/College_chatbot_aws)
 
 ---
 
 ### 🌐 Streamlit & Cloud-Based Internship Recommender
-- **Description:** A cloud-integrated ML app that recommends internships based on resume skills using natural language processing and similarity scoring.  
-- **Features:** Resume skill extraction, TF-IDF vectorization, cloud data storage, and recommendation display.  
+- **Description:** A **Streamlit web app** that uses machine learning and cloud integration to recommend internships based on a candidate’s extracted resume skills.  
+- **Features:** Resume parsing, skill-based matching, similarity scoring, and cloud-hosted database integration.  
 - **Tech Stack:** Streamlit, Firebase, Python, Scikit-learn, TF-IDF, Cosine Similarity, NLP  
 
-[![Internship Recommender](https://img.shields.io/badge/Internship%20Recommender-Streamlit%20%2B%20Cloud%20App-00bfa5?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Internship Recommender](https://img.shields.io/badge/Internship%20Recommender-Streamlit%20%2B%20Cloud%20App-00bfa5?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/thariniradhakrishnan-tharini/Intern-Pro-Match)
 
 ---
+### 🥇 Project Pulse 2025 — National Level Project Competition
+  Organized by **Ramco Institute of Technology (Dept. of CSE & IT & T&P Cell)** in collaboration with **Maasr Consulting, UK** and **ISTE Student Chapter**.  
+  🏛️ Recognized for innovative project implementation and technical excellence.  
+  💰 **Awarded a cash prize of ₹3000.**
+## 🏆 Achievements, Competitions & Learnathons
+- 🥈 Semi-finalist — **TechGig Code Gladiators 2024**  
+- 🥇 Winner — **Cybersecurity Hackathon (Suprajaa Technologies)**  
+- Competitor — **Flipkart Grid 7.0**, **Kaggle March Mania**  
+- 78th rank — Java Quiz (PVPSIT)
 
 ## 📜 Certifications
 - Google Skill Boost — Generative AI, Cybersecurity, Gemini  
 - NPTEL — Machine Learning (Elite), Java, C Programming, OOSD with UML  
-- Cisco — Introduction to Cybersecurity  
 - MongoDB — Basics  
 - HackerRank — Java, Python, SQL (Basic)  
 - AWS ML Engineer *(In Progress)*  
@@ -110,13 +118,7 @@ GitHub • VS Code
 - **Data Analytics** — Accenture (Forage)  
 - **Operations** — Goldman Sachs (Forage)  
 
----
-
-## 🏆 Achievements, Competitions & Learnathons
-- 🥈 Semi-finalist — **TechGig Code Gladiators 2024**  
-- 🥇 Winner — **Cybersecurity Hackathon (Suprajaa Technologies)**  
-- Competitor — **Flipkart Grid 7.0**, **Kaggle March Mania**  
-- 78th rank — Java Quiz (PVPSIT)  
+---  
 
 **Learnathons & Bootcamps:**  
 - SAWIT.AI Learnathon (GUVI, NASSCOM, Kalido)  
