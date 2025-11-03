@@ -29,13 +29,10 @@ Java • C • Python • SQL • JavaScript (Basics)
 HTML5 • CSS3 • MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
 ### 🤖 ML & AI  
-Machine Learning • Generative AI • AWS Bedrock • NLP • Streamlit
+Machine Learning • AI • Data Analytics • Streamlit
 
 ### 🗄️ Databases  
 MongoDB • MySQL
-
-### ☁️ Cloud Platforms  
-AWS • Google Cloud Platform
 
 ### ⚙️ Tools & Others  
 GitHub • VS Code
