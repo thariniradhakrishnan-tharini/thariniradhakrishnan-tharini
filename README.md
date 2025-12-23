@@ -106,7 +106,7 @@ GitHub • VS Code
 - NPTEL — Machine Learning (Elite), Java, C Programming, OOSD with UML  
 - MongoDB — Basics  
 - HackerRank — Java, Python, SQL (Basic)  
-- AWS ML Engineer *(In Progress)*  
+- Wipro TalentNext Program - Java Fullstack 
 
 ---
 
