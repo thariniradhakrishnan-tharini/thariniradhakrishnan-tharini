@@ -124,17 +124,4 @@ GitHub • VS Code
 
 ---
 
-## 🤝 Memberships
-- CSI (Computer Society of India) Member  
-- IE (Institution of Engineers) Member  
-
----
-
-## 📊 Coding Profiles
-- **LeetCode:** [THARINI_R_V](https://leetcode.com/u/THARINI_R_V/)  
-- **HackerRank:** [h953622104109](https://www.hackerrank.com/profile/h953622104109)  
-- **Google Cloud Skill Boost:** [Profile 1](https://www.cloudskillsboost.google/public_profiles/44740864-9f5e-4f0b-a03f-54139a06f244) | [Profile 2](https://www.cloudskillsboost.google/public_profiles/15d1fffd-b20f-475c-ab9a-ad07385ae479)
-
----
-
 ⭐ *“First, solve the problem. Then, write the code.”*
