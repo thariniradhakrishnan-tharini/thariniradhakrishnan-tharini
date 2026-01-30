@@ -123,5 +123,3 @@ GitHub • VS Code
 - Unstop Talent Park-2025 Bootcamp (7 days)  
 
 ---
-
-⭐ *“First, solve the problem. Then, write the code.”*
