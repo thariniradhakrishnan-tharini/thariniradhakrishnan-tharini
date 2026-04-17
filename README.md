@@ -5,7 +5,7 @@
 ---
 
 ## 💡 About Me
-- 🎓 **B.E. in Computer Science & Engineering** — Ramco Institute of Technology (CGPA: 8.50)   
+- 🎓 **B.E. in Computer Science & Engineering** — Ramco Institute of Technology (CGPA: 8.49)   
 - 🛠 Exploring Machine Learning, and Data Analytics,Cloud Technologies (AWS, Google Cloud)  
 - 🎯 Passionate about building impactful projects and contributing to **open-source communities**
 
